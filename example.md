@@ -13,3 +13,40 @@ See what I mean?
 
 ## Font emphasis:  
 *I'm italic* and **I'm bold**. :-)
+
+## Here's an unordered list:
+
+* I'm
+* An
+* Unordered
+* List
+    * And I can create a sublist by intending
+
+## Here's an ordered list:
+
+1. I'm
+2. An
+3. Ordered
+4. List
+    1. Remember
+    2. To include the . after the number!
+
+## Formatting code with triple backticks (```):
+
+```
+<style>
+    body {
+        background-color: red;
+    }
+</style>
+```
+### And you can add a language to format it even better:
+
+```javascript
+// this is actually pretty cool!
+const markDown = isCool
+```
+
+
+
+
